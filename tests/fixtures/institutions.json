@@ -1,0 +1,29 @@
+{
+  "success": true,
+  "result": [
+    {
+      "id": 1,
+      "memname": "Aligarh Muslim University",
+      "remark": "U-0496",
+      "city": "Aligarh",
+      "state": "Uttar Pradesh",
+      "onos_status": "Yes"
+    },
+    {
+      "id": 2,
+      "memname": "Andhra University",
+      "remark": "U-0006",
+      "city": "Visakhapatnam",
+      "state": "Andhra Pradesh",
+      "onos_status": "Yes"
+    },
+    {
+      "id": 472,
+      "memname": "Andhra University College of Engineering",
+      "remark": "C-24004",
+      "city": "Visakhapatnam",
+      "state": "Andhra Pradesh",
+      "onos_status": "College-Yes"
+    }
+  ]
+}
