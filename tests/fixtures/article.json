@@ -1,0 +1,45 @@
+{
+  "status": "ok",
+  "message": {
+    "DOI": "10.1038/nphys1170",
+    "title": [
+      "Measured measurement"
+    ],
+    "container-title": [
+      "Nature Physics"
+    ],
+    "author": [
+      {
+        "given": "Markus",
+        "family": "Aspelmeyer",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "publisher": "Springer Science and Business Media LLC",
+    "ISSN": [
+      "1745-2473",
+      "1745-2481"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2009,
+          1
+        ]
+      ]
+    },
+    "resource": {
+      "primary": {
+        "URL": "https://www.nature.com/articles/nphys1170"
+      }
+    },
+    "URL": "https://doi.org/10.1038/nphys1170"
+  }
+}

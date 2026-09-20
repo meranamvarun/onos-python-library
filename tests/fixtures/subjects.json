@@ -1,0 +1,71 @@
+{
+  "Multidisciplinary": [
+    {
+      "code": 1000,
+      "description": "Multidisciplinary",
+      "subjectarea": "Multidisciplinary"
+    }
+  ],
+  "Agricultural and Biological Sciences": [
+    {
+      "code": 1100,
+      "description": "General Agricultural and Biological Sciences",
+      "subjectarea": "Agricultural and Biological Sciences"
+    },
+    {
+      "code": 1101,
+      "description": "Agricultural and Biological Sciences (miscellaneous)",
+      "subjectarea": "Agricultural and Biological Sciences"
+    },
+    {
+      "code": 1102,
+      "description": "Agronomy and Crop Science",
+      "subjectarea": "Agricultural and Biological Sciences"
+    },
+    {
+      "code": 1103,
+      "description": "Animal Science and Zoology",
+      "subjectarea": "Agricultural and Biological Sciences"
+    },
+    {
+      "code": 1104,
+      "description": "Aquatic Science",
+      "subjectarea": "Agricultural and Biological Sciences"
+    },
+    {
+      "code": 1105,
+      "description": "Ecology, Evolution, Behavior and Systematics",
+      "subjectarea": "Agricultural and Biological Sciences"
+    },
+    {
+      "code": 1106,
+      "description": "Food Science",
+      "subjectarea": "Agricultural and Biological Sciences"
+    },
+    {
+      "code": 1107,
+      "description": "Forestry",
+      "subjectarea": "Agricultural and Biological Sciences"
+    },
+    {
+      "code": 1108,
+      "description": "Horticulture",
+      "subjectarea": "Agricultural and Biological Sciences"
+    },
+    {
+      "code": 1109,
+      "description": "Insect Science",
+      "subjectarea": "Agricultural and Biological Sciences"
+    },
+    {
+      "code": 1110,
+      "description": "Plant Science",
+      "subjectarea": "Agricultural and Biological Sciences"
+    },
+    {
+      "code": 1111,
+      "description": "Soil Science",
+      "subjectarea": "Agricultural and Biological Sciences"
+    }
+  ]
+}

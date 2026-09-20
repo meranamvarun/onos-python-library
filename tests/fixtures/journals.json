@@ -1,0 +1,14 @@
+{
+  "success": true,
+  "result": [
+    {
+      "title": "Nature",
+      "publisher": "Springer Nature",
+      "url": "https://www.nature.com/",
+      "pissn": "0028-0836",
+      "eissn": "1476-4687",
+      "subject": "Multidisciplinary"
+    }
+  ],
+  "decryptedID": null
+}
